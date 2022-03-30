@@ -25,18 +25,18 @@ This section will introduce how to create a new schema, set it up in your workbe
 ![first images](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/first.png?raw=true)
 
 2. Click **Apply** at the bottom right corner.
-![second image](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/second.png)
+![second image](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/second.png?raw=true)
 
 3. In the pop-up window, do not modify the algorithm or lock type, and click **Apply**. 
-![third image](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/third.png)
+![third image](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/third.png?raw=true)
 
 4. In the following windown, press **Close**.
 
 5. After you press close, in the left menu right click on your schema and choose **Set as Default Schema**.
-![fifth](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/fifth.png)
+![fifth](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/fifth.png?raw=true)
 
 6. In the top menubar, press the **File** tab -  **New Query Tab**. This will open a new window with an empty query field.
-[sixth](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/sixth.png)
+[sixth](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/sixth.png?raw=true)
 
 *Note* To make sure that it works, you can do the following steps by creating a table.
 
@@ -53,17 +53,17 @@ CREATE TABLE `UserGuide`.`Persons` (
 ```
 
 This will create a table called Persons in your schema. (Note if you used different name for schema, you need to replace `UserGuide` with your used name).
-![seven](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/seventh.png)
+![seven](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/seventh.png?raw=true)
 
 2. Press execute sign (lightning bolt) to run executable code.
-![eigth](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/eighth.png)
+![eigth](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/eighth.png?raw=true)
 
 3. In order for it to appear at the right part of the menu, you need to refresh your database. Right-click on your newly created schema > **Refresh All**
 
-![nine](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/nineth.png)
+![nine](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/nineth.png?raw=true)
 
 4. You now should be able to work in the created table and see it in your menu like that
-![ten](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/tenth.png)
+![ten](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/tenth.png?raw=true)
 
 ## Conclusion
 
