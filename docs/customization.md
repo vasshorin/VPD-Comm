@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Customization
-nav_order: 6
+title: Schema setup
+nav_order: 3
 ---
 
 # Customization
@@ -15,110 +15,64 @@ nav_order: 6
 
 ---
 
-## Color schemes
+# Overview
 
-{: .d-inline-block }
+This section will introduce how to create a new schema, set it up in your workbench, and add a new table to it.
 
-New
-{: .label .label-green }
 
-Just the Docs supports two color schemes: light (default), and dark.
+## Setting up
+1. Click on create a schema to see this window. You can name it anything you want. For our purpose, I will name it UserGuide.
+![first images](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/first.png)
 
-To enable a color scheme, set the `color_scheme` parameter in your site's `_config.yml` file:
+2. Click **Apply** at the bottom right corner.
+![second image](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/second.png)
 
-#### Example
-{: .no_toc }
+3. In the pop-up window, do not modify the algorithm or lock type, and click **Apply**. 
+![third image](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/third.png)
 
-```yaml
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
+4. In the following windown, press **Close**.
+
+5. After you press close, in the left menu right click on your schema and choose **Set as Default Schema**.
+![fifth](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/fifth.png)
+
+6. In the top menubar, press the **File** tab -  **New Query Tab**. This will open a new window with an empty query field.
+[sixth](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/sixth.png)
+
+*Note* To make sure that it works, you can do the following steps by creating a table.
+
+1. In the empty window, type 
+
+```
+CREATE TABLE `UserGuide`.`Persons` (
+    PersonID int,
+    LastName varchar(255),
+    FirstName varchar(255),
+    Address varchar(255),
+    City varchar(255)
+);
 ```
 
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
+This will create a table called Persons in your schema. (Note if you used different name for schema, you need to replace `UserGuide` with your used name).
+![seven](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/seventh.png)
 
-<script>
-const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+2. Press execute sign (lightning bolt) to run executable code.
+![eigth](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/eighth.png)
 
-jtd.addEvent(toggleDarkMode, 'click', function(){
-  if (jtd.getTheme() === 'dark') {
-    jtd.setTheme('light');
-    toggleDarkMode.textContent = 'Preview dark color scheme';
-  } else {
-    jtd.setTheme('dark');
-    toggleDarkMode.textContent = 'Return to the light side';
-  }
-});
-</script>
+3. In order for it to appear at the right part of the menu, you need to refresh your database. Right-click on your newly created schema > **Refresh All**
 
-## Custom schemes
+![nine](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/nineth.png)
 
-### Define a custom scheme
+4. You now should be able to work in the created table and see it in your menu like that
+![ten](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/tenth.png)
 
-You can add custom schemes.
-If you want to add a scheme named `foo` (can be any name) just add a file `_sass/color_schemes/foo.scss` (replace `foo` by your scheme name)
-where you override theme variables to change colors, fonts, spacing, etc.
+## Conclusion
 
-Available variables are listed in the [\_variables.scss](https://github.com/just-the-docs/just-the-docs/tree/main/_sass/support/_variables.scss) file.
+Now that you know how to create, set up, and initilaze schema, you should be able to work with queries and table. Please proceed to the following section to learn how to manipulate data.
 
-For example, to change the link color from the purple default to blue, include the following inside your scheme file:
 
-#### Example
-{: .no_toc }
 
-```scss
-$link-color: $blue-000;
-```
 
-_Note:_ Editing the variables directly in `_sass/support/variables.scss` is not recommended and can cause other dependencies to fail.
-Please use scheme files.
 
-### Use a custom scheme
 
-To use the custom color scheme, only set the `color_scheme` parameter in your site's `_config.yml` file:
 
-```yaml
-color_scheme: foo
-```
 
-### Switchable custom scheme
-
-If you want to be able to change the scheme dynamically, for example via javascript, just add a file `assets/css/just-the-docs-foo.scss` (replace `foo` by your scheme name)
-with the following content:
-
-{% raw %}
-    ---
-    ---
-    {% include css/just-the-docs.scss.liquid color_scheme="foo" %}
-{% endraw %}
-
-This allows you to switch the scheme via the following javascript.
-
-```js
-jtd.setTheme("foo")
-```
-
-## Override and completely custom styles
-
-For styles that aren't defined as variables, you may want to modify specific CSS classes.
-Additionally, you may want to add completely custom CSS specific to your content.
-To do this, put your styles in the file `_sass/custom/custom.scss`.
-This will allow for all overrides to be kept in a single file, and for any upstream changes to still be applied.
-
-For example, if you'd like to add your own styles for printing a page, you could add the following styles.
-
-#### Example
-{: .no_toc }
-
-```scss
-// Print-only styles.
-@media print {
-  .side-bar,
-  .page-header {
-    display: none;
-  }
-  .main-content {
-    max-width: auto;
-    margin: 1em;
-  }
-}
-```
