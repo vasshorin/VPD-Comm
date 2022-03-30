@@ -19,6 +19,14 @@ A database stores various organized collections of data by separating it into ro
 
 MySQL is one of the most popular relational databases that is widely used across many industries. It is an open-source database management system that implements a relational model and Structured Query Language (SQL) to manage data.
 
+Why is so popular?
+
+* It is an open source product that is available for anyone
+* It can handle large massives of data, up to 40 million rows or tables in a table.
+* It supports lots of different operating systems
+* It works with numerous programming languages and IDEs
+* It has a lot of open source frameworks and additional software developed by different people for their needs
+
 
 ## Who is it for
 
