@@ -5,7 +5,7 @@ nav_order: 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
 ---
-
+# Introduction
 
 Hi there, this guide will take you through how to set up and create an SQL database using MYSQL workbench on Mac and windows. This guide will break down the steps to create, read and update tables of relational data. 
 
