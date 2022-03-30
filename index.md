@@ -6,16 +6,33 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Focus on writing good documentation.
-{: .fs-9 }
+# Introduction.
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
-{: .fs-6 .fw-300 }
+Hi there, this guide will take you through how to setup and create an SQL database using MYSQL workbench on Mac and windows. This guide will break down the steps to create, read and update tables of relational data. 
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+
 
 ---
+## What is MySQL
 
+MySQL is one of the most popular relational databases that is widely used across many industries. It is an open source database management system that implemenets relational model and Structured Query Language (SQL) to manage data.
+
+
+## Who is it for
+
+This guide aims at CST Term 1 student with minumum to no prior knowledge of relational database. 
+
+
+## Prerequisites
+
+MySQL Workbench is a popular sql client that lets you view create tables, update read and delete tables, using executable queries. mySQL Workbench is available for free at this [website](https://dev.mysql.com/downloads/workbench/). Its an easy way to visualize and execute SQL queries. You can install latest stable version for your OS.
+
+* keyboard and mouse
+* an internet access
+* basic knowledge how to install software
+
+---
 ## Getting started
 
 ### Dependencies
