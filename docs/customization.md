@@ -22,7 +22,7 @@ This section will introduce how to create a new schema, set it up in your workbe
 
 ## Setting up
 1. Click on create a schema to see this window. You can name it anything you want. For our purpose, I will name it UserGuide.
-![first images](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/first.png)
+![first images](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/first.png?raw=true)
 
 2. Click **Apply** at the bottom right corner.
 ![second image](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/second.png)
