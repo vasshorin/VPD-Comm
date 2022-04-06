@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Read-Update-data
+title: Add and Retrieve data
 nav_order: 10
 ---
 
