@@ -41,3 +41,11 @@ MySQL Workbench is a popular SQL client that lets you view create tables, update
 * Keyboard and mouse
 * an internet access
 * basic knowledge of how to install software
+
+![Note icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/note.png?raw=true "Note"){: style="float: left" }
+>> **Note**: This is a note icon which indicates please pay attention to the following.
+<br />
+<br />
+
+![Caution icon](https://github.com/dl90/linux-basics/blob/gh-pages/docs/images/icons/caution.png?raw=true "Caution"){: style="float: left" }
+>> **Caution**: This a caution icon which indicates please be careful with the following.
