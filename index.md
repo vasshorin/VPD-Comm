@@ -11,11 +11,11 @@ Hi there, this guide will take you through how to set up and create an SQL datab
 
 ---
 
-## What is Database
+## What is Database?
 
 A database stores various organized collections of data by separating it into rows, columns, tables, indexes. It allows users to combine and search for data easily. Different databases offer different APIs and work with different programs such as MySQL, Oracle, MongoDB, FireBase. However, all of them are designed to create, manage, update, access, and manipulate data in one way or another. In this guide, we will be talking about MySQL.
 
-## What is MySQL
+## What is MySQL?
 
 MySQL is one of the most popular relational databases that is widely used across many industries. It is an open-source database management system that implements a relational model and Structured Query Language (SQL) to manage data.
 
@@ -28,9 +28,10 @@ Why is so popular?
 * It has a lot of open source frameworks and additional software developed by different people for their needs
 
 
-## Who is it for
+## Who is it for?
 
-This guide aims at CST Term 1 students with minimal to no prior knowledge of relational databases. 
+* This guide aims at CST Term 1 students with minimal to no prior knowledge of relational databases who want to use it before taking database class. 
+* Developers or small companies looking into implementing a db in their projects. 
 
 
 ## Prerequisites
