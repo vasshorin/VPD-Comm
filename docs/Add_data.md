@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Add and Retrieve data
+title: Add data
 nav_order: 10
 ---
 
