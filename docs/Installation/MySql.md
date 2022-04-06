@@ -1,3 +1,21 @@
+---
+layout: default
+title: Install MySQL
+nav_order: 4
+---
+
+# Customization
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+
 # How to install MySQL
 To get started, you will need to install MySQL on your computer.
 
