@@ -47,5 +47,5 @@ MySQL Workbench is a popular SQL client that lets you view create tables, update
 <br />
 <br />
 
-![Caution icon](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/caution.png"Caution"){: style="float: left" }
+![Caution icon](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/caution.png "Caution"){: style="float: left" }
 >> **Caution**: Please be careful while performing this action.
