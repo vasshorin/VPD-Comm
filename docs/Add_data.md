@@ -30,7 +30,7 @@ For demonstration, we are going to insert some values in our Persons table follo
 
 Once we run the query, the following message will output in the Output sub-menu at the bottom of your screen.
 
-![Query sub-menu](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/add5.png?raw=true)
+![Query sub-menu](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/add6.png?raw=true)
 
 From the image above, 1 shows a green check mark, which signifies your query ran successfully. Infact, you will see this everytime a query is successfully run. Box 2 shows how many rows were created, which is 4 in this case. There is also additional information like duplicated rows and possible errors. In our example, we created 4 unique rows without errors. 
 
