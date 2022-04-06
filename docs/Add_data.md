@@ -24,7 +24,9 @@ For demonstration, we are going to insert some values in our Persons table follo
 
 ![Insert data](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/add3.png?raw=true)
 
+
 2. Select the whole query
+
 
 3. Run the query by click this icon.
 
