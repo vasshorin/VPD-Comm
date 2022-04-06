@@ -11,7 +11,7 @@ To get started, you will need to install MySQL Workbench on your computer. (pre 
 
 
 1. Visit the MySQL Workbench Downloads page. Click on the 
-   ![Download Link](https://dev.mysql.com/downloads/workbench/)
+   [Download Link](https://dev.mysql.com/downloads/workbench/)
 2. Select your operating system and download the DMG Archive
    ![Choose OS](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/Picture8.png?raw=true)
 3. Skip login by clicking “No thanks, just start my download”
