@@ -41,6 +41,8 @@ This section will introduce how to create a new schema, set it up in your workbe
 
 ![Note icon](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }```Note``` To make sure that it works, you can do the following steps by creating a table.
 
+
+
 6-1. In the empty window, type 
 
 ```
