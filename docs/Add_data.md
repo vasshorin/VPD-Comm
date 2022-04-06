@@ -22,7 +22,6 @@ For demonstration, we are going to insert some values in our Persons table follo
 
 1. Type the following query to insert data.
 
-
 ![Insert data](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/add3.png?raw=true)
 
 2. Select the whole query
