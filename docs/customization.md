@@ -39,7 +39,7 @@ This section will introduce how to create a new schema, set it up in your workbe
 6. In the top menubar, press the **File** tab -  **New Query Tab**. This will open a new window with an empty query field.
 ![sixth](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/sixth.png?raw=true)
 
-```**Note**``` To make sure that it works, you can do the following steps by creating a table.
+```Note``` To make sure that it works, you can do the following steps by creating a table.
 
 7. In the empty window, type 
 
