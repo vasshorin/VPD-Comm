@@ -5,6 +5,14 @@ nav_order: 10
 ---
 
 
-# How to retrieve and update data.
+# How to add data.
 
 To get started, make sure the schema in which the table is is connected. This is shown by a bold lettered name. 
+
+To retrieve data, we need to insert some values in the table first. To insert values, you do the following procedure. 
+
+
+
+You can also check for more examples and exercises to get more practice. 
+[Visit W3Resources!](https://www.w3schools.com/mysql/mysql_insert.asp)
+
