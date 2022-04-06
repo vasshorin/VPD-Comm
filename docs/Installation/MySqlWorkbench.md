@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Install MySQL
+title: Install MySQL Workbench
 nav_order: 3
 ---
 
