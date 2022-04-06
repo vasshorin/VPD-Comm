@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Retrieve data
-nav_order: 5
+nav_order: 6
 ---
 
 # Retrieving data
