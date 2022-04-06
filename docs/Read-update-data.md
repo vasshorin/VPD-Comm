@@ -8,7 +8,7 @@ nav_order: 10
 # How to add data.
 
 To get started, make sure the schema in which the table is is connected. This is shown by a bold lettered name. 
-![Connected schema](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/add1.png)
+![Connected schema](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/add1.png?raw=true)
 
 To retrieve data, we need to insert some values in the table first. To insert values, you do the following procedure. 
 
