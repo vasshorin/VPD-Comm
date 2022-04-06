@@ -21,6 +21,8 @@ The number of columns must match the number of comma separated values. For examp
 For demonstration, we are going to insert some values in our Persons table following the syntax above.
 
 1. Type the following query to insert data.
+
+
 ![Insert data](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/add3.png?raw=true)
 
 2. Select the whole query
