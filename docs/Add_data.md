@@ -28,7 +28,10 @@ For demonstration, we are going to insert some values in our Persons table follo
 2. Select the whole query
 
 3. Run the query by click this icon.
-4. 
+
+![Run query](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/add5.png?raw=true)
+
+5. 
 ![Run query](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/add4.png?raw=true)
 
 Once we run the query, the following message will output in the Output sub-menu at the bottom of your screen.
