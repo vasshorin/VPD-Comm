@@ -31,7 +31,7 @@ Why is so popular?
 ## Who is it for?
 
 * This guide aims at CST Term 1 students with minimal to no prior knowledge of relational databases who want to use it before taking database class. 
-* Developers or small companies looking into implementing a db in their projects. 
+* Developers or small companies looking into implementing a mysql database in their projects. 
 
 
 ## Prerequisites
