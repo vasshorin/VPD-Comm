@@ -19,8 +19,8 @@ To get started, you will need to install MySQL Workbench on your computer. (pre 
 4. Once the file is completely downloaded, Navigate to your downloads folder and double click on the file beginning in “mysql-xxx”.
    ![Open Downloads](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/Picture4.png?raw=true)
 5. Drag the MySQL Workbench icon into the applications icon.
-   ![Drag to Applications Folder](https://user-images.githubusercontent.com/47158051/162035221-2f106f90-e3f5-4c34-9329-94987524502a.png)
+   ![Drag to Applications Folder](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/Picture2.png?raw=true)
 6. Done! You can now launch MySQL Workbench by double clicking on the MySQL workbench in the applications folder.
-   ![Launch app from applications folder](https://user-images.githubusercontent.com/47158051/162035408-22421058-13a0-473d-a4d9-347eb6133d9a.png)
+   ![Launch app from applications folder](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/Picture2.png?raw=true)
 
  
