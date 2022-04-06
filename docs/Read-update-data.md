@@ -32,11 +32,9 @@ Once we run the query, the following message will output in the Output sub-menu 
 
 ![Query sub-menu](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/add5.png?raw=true)
 
+From the image above, 1 shows a green check mark, which signifies your query ran successfully. Infact, you will see this everytime a query is successfully run. Box 2 shows how many rows were created, which is 4 in this case. There is also additional information like duplicated rows and possible errors. In our example, we created 4 unique rows without errors. 
 
-
-
-
-
+Congratulations, you have succesully learned how to add data to a table using basic queries!
 
 You can also check for more examples and exercises to get more practice. 
 [Visit W3Resources!](https://www.w3schools.com/mysql/mysql_insert.asp)
