@@ -41,7 +41,7 @@ This section will introduce how to create a new schema, set it up in your workbe
 
 ```Note``` To make sure that it works, you can do the following steps by creating a table.
 
-7. In the empty window, type 
+6-1. In the empty window, type 
 
 ```
 CREATE TABLE `UserGuide`.`Persons` (
@@ -53,27 +53,19 @@ CREATE TABLE `UserGuide`.`Persons` (
 );
 ```
 
-This will create a table called Persons in your schema. (Note if you used different name for schema, you need to replace `UserGuide` with your used name).
+6-2. This will create a table called Persons in your schema. (Note if you used different name for schema, you need to replace `UserGuide` with your used name).
 ![seven](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/seventh.png?raw=true)
 
-8. Press execute sign (lightning bolt) to run executable code.
+6-3. Press execute sign (lightning bolt) to run executable code.
 ![eigth](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/eighth.png?raw=true)
 
-9. In order for it to appear at the right part of the menu, you need to refresh your database. Right-click on your newly created schema > **Refresh All**
+6-4. In order for it to appear at the right part of the menu, you need to refresh your database. Right-click on your newly created schema > **Refresh All**
 
 ![nine](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/nineth.png?raw=true)
 
-10. You now should be able to work in the created table and see it in your menu like that
+6-5. You now should be able to work in the created table and see it in your menu like that
 ![ten](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/tenth.png?raw=true)
 
 ## Conclusion
 
 Now that you know how to create, set up, and initilaze schema, you should be able to work with queries and table. Please proceed to the following section to learn how to manipulate data.
-
-
-
-
-
-
-
-
