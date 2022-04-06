@@ -10,7 +10,7 @@ To get started, you will need to install MySQL on your computer.
 
 
 
-1. Visit the MySQL Downloads page. Click on the following link https://dev.mysql.com/downloads/mysql/
+1. Visit the MySQL Downloads page. Click on the [Download Link](https://dev.mysql.com/downloads/mysql/)
 2. Select your operating system and version (if applicable) in the dropdown menu.
 	![Choose OS](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/Picture1.png?raw=true)
 3. Download the DMG Archive for your chosen operating system.
