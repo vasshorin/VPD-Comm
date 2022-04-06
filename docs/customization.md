@@ -19,6 +19,7 @@ nav_order: 4
 
 This section will introduce how to create a new schema, set it up in your workbench, and add a new table to it.
 
+``` Note ``` the following steps are done on mac version of workbench.
 
 ## Setting up
 1. Click on create a schema to see this window. You can name it anything you want. For our purpose, I will name it UserGuide.
@@ -38,7 +39,7 @@ This section will introduce how to create a new schema, set it up in your workbe
 6. In the top menubar, press the **File** tab -  **New Query Tab**. This will open a new window with an empty query field.
 ![sixth](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/sixth.png?raw=true)
 
-``````*Note* To make sure that it works, you can do the following steps by creating a table.
+```**Note**``` To make sure that it works, you can do the following steps by creating a table.
 
 1. In the empty window, type 
 
