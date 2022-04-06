@@ -7,8 +7,6 @@ nav_order: 5
 
 # How to add data.
 
-3. In the pop-up window, do not modify the algorithm or lock type, and click **Apply**. 
-![third image](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/third.png?raw=true)
 
 To get started, make sure the schema in which contains the table is connected. This is shown by a bold lettered name as shown below. 
 ![Connected schema](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/add20.png?raw=true)
