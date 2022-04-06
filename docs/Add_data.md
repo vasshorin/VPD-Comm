@@ -31,9 +31,6 @@ For demonstration, we are going to insert some values in our Persons table follo
 
 ![Run query](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/add5.png?raw=true)
 
-5. 
-![Run query](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/add4.png?raw=true)
-
 Once we run the query, the following message will output in the Output sub-menu at the bottom of your screen.
 ![Query sub-menu](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/add6.png?raw=true)
 
