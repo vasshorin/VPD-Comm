@@ -4,10 +4,10 @@ title: Install MySQL Workbench
 nav_order: 3
 ---
 
+![Note icon](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }``` Note ``` the following steps are done on mac version of workbench.
 
 # How to install MySQL Workbench
 To get started, you will need to install MySQL Workbench on your computer. (pre requisite install MySQL in previous section)
-
 
 
 1. Visit the MySQL Workbench Downloads page. Click on the 
@@ -24,3 +24,6 @@ To get started, you will need to install MySQL Workbench on your computer. (pre 
    ![Launch app from applications folder](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/Picture12.png?raw=true)
 
  
+## Conclusion
+
+Now that you have setup MySQL Workbench, you can proceed to the next section showing how to add data to an SQL Table
