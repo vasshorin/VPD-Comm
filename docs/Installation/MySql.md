@@ -6,6 +6,7 @@ nav_order: 2
 
 ![Note icon](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }``` Note ``` the following steps are done on mac version of workbench.
 
+
 # How to install MySQL
 To get started, you will need to install MySQL on your computer.
 
