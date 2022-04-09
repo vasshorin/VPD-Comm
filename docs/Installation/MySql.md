@@ -4,10 +4,10 @@ title: Install MySQL
 nav_order: 2
 ---
 
+![Note icon](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/note.png?raw=true "Note"){: style="float: left" }``` Note ``` the following steps are done on mac version of workbench.
 
 # How to install MySQL
 To get started, you will need to install MySQL on your computer.
-
 
 
 1. Visit the MySQL Downloads page. Click on the [Download Link](https://dev.mysql.com/downloads/mysql/)
@@ -26,3 +26,7 @@ To get started, you will need to install MySQL on your computer.
 	![Continue](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/Picture6.png?raw=true)
 	![Agree](https://github.com/vasshorin/VPD-Comm/blob/Gh-pages/assets/images/Picture7.png?raw=true)
 9. Once you have accepted the terms, click install to complete the installation.
+
+## Conclusion
+
+Now that you have setup MySQL, please proceed to the following section to learn how to install MySQL Workbench.
