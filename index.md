@@ -7,7 +7,7 @@ permalink: /
 ---
 # Introduction
 
-Hi there, this guide will take you through how to set up and create an SQL database using MYSQL workbench on Mac and windows. This guide will break down the steps to create, read and update tables of relational data. 
+Hi there, this guide will take you through how to set up and create an SQL database using MYSQL workbench on MacOS. This guide will break down the steps to create, read and update tables of relational data. 
 
 ---
 
@@ -28,7 +28,7 @@ Why is so popular?
 * It has a lot of open source frameworks and additional software developed by different people for their needs
 
 
-## Who is it for?
+## Who is this guide for?
 
 * This guide aims at CST Term 1 students with minimal to no prior knowledge of relational databases who want to use it before taking database class. 
 * Developers or small companies looking into implementing a mysql database in their projects. 
