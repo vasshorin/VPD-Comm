@@ -7,12 +7,6 @@ nav_order: 7
 # Troubleshooting
 {: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 ---
 
 This section outlines possible errors that you can run into:
